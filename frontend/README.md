@@ -1,4 +1,4 @@
-# StackRail Frontend Dashboard
+# Frontend Dashboard
 
 A minimal, production-style Next.js dashboard for real-time event streaming and AI-generated persona visualization.
 
