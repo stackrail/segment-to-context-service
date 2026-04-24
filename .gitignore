@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Env files
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+
+# Build
+.next/
+dist/
+coverage/
+
+# VSCode
+.vscode/
