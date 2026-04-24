@@ -1,4 +1,4 @@
-# StackRail - Event-Driven Backend + Next.js Dashboard
+# Event-Driven Backend + Next.js Dashboard
 
 A minimal, production-ready event ingestion system with real-time persona generation and a responsive Next.js dashboard.
 
